@@ -7,8 +7,8 @@ PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-LayoutResX: 0
-LayoutResY: 0
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -17,17 +17,16 @@ Video File: ../../../../../Users/ziyii/Desktop/[CheeseAni]Arknights：Reimei Zen
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 612
-Active Line: 259
-Video Position: 15685
+Scroll Position: 494
+Active Line: 579
+Video Position: 33714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: zh,HarmonyOS Sans SC,64,&H00FFFFFF,&H00FFFFFF,&H00404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,72,1
-Style: zh-low,HarmonyOS Sans SC,64,&H00FFFFFF,&H00FFFFFF,&H19404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
-Style: en,HarmonyOS Sans SC,54,&H00FFFFFF,&H00FFFFFF,&H19404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,135,135,5,1
+Style: zh,方正兰亭圆_GBK_中,64,&H00FFFFFF,&H00FFFFFF,&H00404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,72,1
+Style: zh-low,方正兰亭圆_GBK_中,64,&H00FFFFFF,&H00FFFFFF,&H19404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: en,方正兰亭圆_GBK_中,54,&H00FFFFFF,&H00FFFFFF,&H19404040,&H910E0807,-1,0,0,0,100,100,0,0,1,3,0,2,135,135,5,1
 Style: screen,方正准圆_GBK,88,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
-Style: Map,方正楷体_GBK,30,&H00000000,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -611,103 +610,3 @@ Dialogue: 0,0:23:17.42,0:23:18.21,zh,,0,0,0,,好了
 Dialogue: 0,0:23:18.21,0:23:19.00,zh,,0,0,0,,我们走吧
 Dialogue: 0,0:23:26.09,0:23:26.13,screen,,0,0,0,,{\fs20\fsp0\pos(940.33,778.67)\frz66.72}—————————————\N{\fs38\fsp-6}罗德岛初级终端服务\N\N{\fs2\fsp35}\h{\fs20\fsp35}综合信息\N{\fs30}\h{\fs30\fsp16}分析操作系统{\fs}\h\N{\fs20\fsp0}—————————————
 Dialogue: 0,0:23:26.13,0:23:27.01,screen,,0,0,0,,{\fade(0,0,120,0,0,25,860)\frz64\fs20\fsp0\pos(951,782.67)}—————————————\N{\fs38\fsp-6}罗德岛初级终端服务\N\N{\fs2\fsp35}\h{\fs20\fsp35}综合信息\N{\fs30}\h{\fs30\fsp16}分析操作系统{\fs}\h\N{\fs20\fsp0}—————————————
-Dialogue: 0,0:10:30.04,0:10:30.08,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1280.54,259.29)\fscx100\fscy100\frz0\org(1280.54,259.29)}乌萨斯
-Dialogue: 0,0:10:30.08,0:10:30.12,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1280.81,259.1)\fscx98.49\fscy98.49\frz-0.65\org(1280.81,259.1)}乌萨斯
-Dialogue: 0,0:10:30.12,0:10:30.17,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1280.05,258.98)\fscx98.57\fscy98.57\frz-0.7\org(1280.05,258.98)}乌萨斯
-Dialogue: 0,0:10:30.17,0:10:30.21,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1279.24,258.47)\fscx99.7\fscy99.7\frz-0.27\org(1279.24,258.47)}乌萨斯
-Dialogue: 0,0:10:30.21,0:10:30.25,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1278.62,258.2)\fscx100.06\fscy100.06\frz-1.05\org(1278.62,258.2)}乌萨斯
-Dialogue: 0,0:10:30.25,0:10:30.29,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1278.35,258.05)\fscx100.39\fscy100.39\frz-1.46\org(1278.35,258.05)}乌萨斯
-Dialogue: 0,0:10:30.29,0:10:30.33,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1277.46,257.94)\fscx100.41\fscy100.41\frz-1.47\org(1277.46,257.94)}乌萨斯
-Dialogue: 0,0:10:30.33,0:10:30.37,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1277.3,257.88)\fscx100.42\fscy100.42\frz-1.49\org(1277.3,257.88)}乌萨斯
-Dialogue: 0,0:10:30.37,0:10:30.42,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1276.75,257.58)\fscx102.74\fscy102.74\frz-1.62\org(1276.75,257.58)}乌萨斯
-Dialogue: 0,0:10:30.42,0:10:30.46,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1276.61,257.48)\fscx102.56\fscy102.56\frz-1.58\org(1276.61,257.48)}乌萨斯
-Dialogue: 0,0:10:30.46,0:10:30.50,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1275.79,257.29)\fscx102.9\fscy102.9\frz-1.82\org(1275.79,257.29)}乌萨斯
-Dialogue: 0,0:10:30.50,0:10:30.54,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1274.9,256.91)\fscx103.79\fscy103.79\frz-1.89\org(1274.9,256.91)}乌萨斯
-Dialogue: 0,0:10:30.54,0:10:30.58,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1274.92,256.62)\fscx103.43\fscy103.43\frz-2.15\org(1274.92,256.62)}乌萨斯
-Dialogue: 0,0:10:30.58,0:10:30.62,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1274.18,256.29)\fscx105.84\fscy105.84\frz-2.35\org(1274.18,256.29)}乌萨斯
-Dialogue: 0,0:10:30.62,0:10:30.67,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1273.54,256.01)\fscx106.91\fscy106.91\frz-2.22\org(1273.54,256.01)}乌萨斯
-Dialogue: 0,0:10:30.67,0:10:30.71,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1272.88,255.72)\fscx106.58\fscy106.58\frz-1.99\org(1272.88,255.72)}乌萨斯
-Dialogue: 0,0:10:30.71,0:10:30.75,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1271.96,255.47)\fscx107.17\fscy107.17\frz-1.94\org(1271.96,255.47)}乌萨斯
-Dialogue: 0,0:10:30.75,0:10:30.79,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1271.81,255.38)\fscx107.17\fscy107.17\frz-2.01\org(1271.81,255.38)}乌萨斯
-Dialogue: 0,0:10:30.79,0:10:30.83,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1270.95,254.52)\fscx108.88\fscy108.88\frz-2.19\org(1270.95,254.52)}乌萨斯
-Dialogue: 0,0:10:30.83,0:10:30.87,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1270.59,254.52)\fscx109.51\fscy109.51\frz-2.35\org(1270.59,254.52)}乌萨斯
-Dialogue: 0,0:10:30.87,0:10:30.92,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1269.49,253.95)\fscx111.8\fscy111.8\frz-2.23\org(1269.49,253.95)}乌萨斯
-Dialogue: 0,0:10:30.92,0:10:30.96,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1268.92,253.99)\fscx112.96\fscy112.96\frz-2.78\org(1268.92,253.99)}乌萨斯
-Dialogue: 0,0:10:30.96,0:10:31.00,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1264.4,246.31)\fscx112.67\fscy112.67\frz-2.57\org(1264.4,246.31)}乌萨斯
-Dialogue: 0,0:10:31.00,0:10:31.04,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1258.66,241.45)\fscx127.09\fscy127.09\frz-0.25\org(1258.66,241.45)}乌萨斯
-Dialogue: 0,0:10:31.04,0:10:31.08,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1243.71,233.78)\fscx138.75\fscy138.75\frz-0.22\org(1243.71,233.78)}乌萨斯
-Dialogue: 0,0:10:31.08,0:10:31.12,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1223.68,218.82)\fscx134.71\fscy134.71\frz-0.66\org(1223.68,218.82)}乌萨斯
-Dialogue: 0,0:10:31.12,0:10:31.17,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1197.51,192.88)\fscx136\fscy136\frz-1.04\org(1197.51,192.88)}乌萨斯
-Dialogue: 0,0:10:31.17,0:10:31.21,screen,,0,0,0,beretag!key1,{\c&H000017&\fs20\frx30\fry10\pos(1171.32,160.48)\fscx154.68\fscy154.68\frz1.66\org(1171.32,160.48)}乌萨斯
-Dialogue: 0,0:10:30.04,0:10:30.08,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1283,346)\fscx100\fscy100\frz0\org(1283,346)}切尔诺伯格
-Dialogue: 0,0:10:30.08,0:10:30.12,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1282.85,345.93)\fscx100.5\fscy100.5\frz0.15\org(1282.85,345.93)}切尔诺伯格
-Dialogue: 0,0:10:30.12,0:10:30.17,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1282.28,345.78)\fscx101.54\fscy101.54\frz0.04\org(1282.28,345.78)}切尔诺伯格
-Dialogue: 0,0:10:30.17,0:10:30.21,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1282.04,345.75)\fscx101.95\fscy101.95\frz0.19\org(1282.04,345.75)}切尔诺伯格
-Dialogue: 0,0:10:30.21,0:10:30.25,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1281.75,345.73)\fscx104.17\fscy104.17\frz0.09\org(1281.75,345.73)}切尔诺伯格
-Dialogue: 0,0:10:30.25,0:10:30.29,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1281.41,345.62)\fscx104.25\fscy104.25\frz0.25\org(1281.41,345.62)}切尔诺伯格
-Dialogue: 0,0:10:30.29,0:10:30.33,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1281.19,345.63)\fscx104.29\fscy104.29\frz0.45\org(1281.19,345.63)}切尔诺伯格
-Dialogue: 0,0:10:30.33,0:10:30.37,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1280.99,345.63)\fscx105.89\fscy105.89\frz0.5\org(1280.99,345.63)}切尔诺伯格
-Dialogue: 0,0:10:30.37,0:10:30.42,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1280.73,345.57)\fscx104.9\fscy104.9\frz0.66\org(1280.73,345.57)}切尔诺伯格
-Dialogue: 0,0:10:30.42,0:10:30.46,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1280.29,345.5)\fscx106.83\fscy106.83\frz0.71\org(1280.29,345.5)}切尔诺伯格
-Dialogue: 0,0:10:30.46,0:10:30.50,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1279.92,345.37)\fscx107.65\fscy107.65\frz0.52\org(1279.92,345.37)}切尔诺伯格
-Dialogue: 0,0:10:30.50,0:10:30.54,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1279.51,345.37)\fscx109.02\fscy109.02\frz0.66\org(1279.51,345.37)}切尔诺伯格
-Dialogue: 0,0:10:30.54,0:10:30.58,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1279.12,345.34)\fscx111.02\fscy111.02\frz0.8\org(1279.12,345.34)}切尔诺伯格
-Dialogue: 0,0:10:30.58,0:10:30.62,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1278.92,345.24)\fscx109.71\fscy109.71\frz1.14\org(1278.92,345.24)}切尔诺伯格
-Dialogue: 0,0:10:30.62,0:10:30.67,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1278.43,345.37)\fscx110.15\fscy110.15\frz1.41\org(1278.43,345.37)}切尔诺伯格
-Dialogue: 0,0:10:30.67,0:10:30.71,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1278.17,345.32)\fscx110.19\fscy110.19\frz1.61\org(1278.17,345.32)}切尔诺伯格
-Dialogue: 0,0:10:30.71,0:10:30.75,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1277.87,345.29)\fscx111.4\fscy111.4\frz1.66\org(1277.87,345.29)}切尔诺伯格
-Dialogue: 0,0:10:30.75,0:10:30.79,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1277.53,345.21)\fscx114.16\fscy114.16\frz1.42\org(1277.53,345.21)}切尔诺伯格
-Dialogue: 0,0:10:30.79,0:10:30.83,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1277.15,345.08)\fscx114.13\fscy114.13\frz1.65\org(1277.15,345.08)}切尔诺伯格
-Dialogue: 0,0:10:30.83,0:10:30.87,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1276.76,345.06)\fscx114.79\fscy114.79\frz1.79\org(1276.76,345.06)}切尔诺伯格
-Dialogue: 0,0:10:30.87,0:10:30.92,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1276.53,345.11)\fscx114.56\fscy114.56\frz2.11\org(1276.53,345.11)}切尔诺伯格
-Dialogue: 0,0:10:30.92,0:10:30.96,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1276.15,345.02)\fscx113.99\fscy113.99\frz2.32\org(1276.15,345.02)}切尔诺伯格
-Dialogue: 0,0:10:30.96,0:10:31.00,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1272.28,353.62)\fscx131.18\fscy131.18\frz3.29\org(1272.28,353.62)}切尔诺伯格
-Dialogue: 0,0:10:31.00,0:10:31.04,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1264.85,372.68)\fscx156.47\fscy156.47\frz3.56\org(1264.85,372.68)}切尔诺伯格
-Dialogue: 0,0:10:31.04,0:10:31.08,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1254.33,400.02)\fscx193.65\fscy193.65\frz3.97\org(1254.33,400.02)}切尔诺伯格
-Dialogue: 0,0:10:31.08,0:10:31.12,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1238.77,437.1)\fscx260.23\fscy260.23\frz3.5\org(1238.77,437.1)}切尔诺伯格
-Dialogue: 0,0:10:31.12,0:10:31.17,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1215.95,482.36)\fscx307.26\fscy307.26\frz3.16\org(1215.95,482.36)}切尔诺伯格
-Dialogue: 0,0:10:31.17,0:10:31.21,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1187.83,536.02)\fscx367.83\fscy367.83\frz1.67\org(1187.83,536.02)}切尔诺伯格
-Dialogue: 0,0:10:31.21,0:10:31.25,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1158.45,594.57)\fscx495.26\fscy495.26\frz0.9\org(1158.45,594.57)}切尔诺伯格
-Dialogue: 0,0:10:31.25,0:10:31.29,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1131.46,649.37)\fscx579.65\fscy579.65\frz1.4\org(1131.46,649.37)}切尔诺伯格
-Dialogue: 0,0:10:31.29,0:10:31.33,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1104.45,694.17)\fscx658.34\fscy658.34\frz1.58\org(1104.45,694.17)}切尔诺伯格
-Dialogue: 0,0:10:31.33,0:10:31.37,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1077.88,723.71)\fscx732.35\fscy732.35\frz2.43\org(1077.88,723.71)}切尔诺伯格
-Dialogue: 0,0:10:31.37,0:10:31.42,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1058.35,746.39)\fscx785.25\fscy785.25\frz3.6\org(1058.35,746.39)}切尔诺伯格
-Dialogue: 0,0:10:31.42,0:10:31.46,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1046.91,759.2)\fscx812.39\fscy812.39\frz3.76\org(1046.91,759.2)}切尔诺伯格
-Dialogue: 0,0:10:31.46,0:10:31.50,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1043.16,763.43)\fscx821.97\fscy821.97\frz3.92\org(1043.16,763.43)}切尔诺伯格
-Dialogue: 0,0:10:31.50,0:10:31.54,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1042.03,763.61)\fscx822.05\fscy822.05\frz3.92\org(1042.03,763.61)}切尔诺伯格
-Dialogue: 0,0:10:31.54,0:10:31.58,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1041.05,763.57)\fscx820.68\fscy820.68\frz3.94\org(1041.05,763.57)}切尔诺伯格
-Dialogue: 0,0:10:31.58,0:10:31.62,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1040,762.98)\fscx818.4\fscy818.4\frz3.91\org(1040,762.98)}切尔诺伯格
-Dialogue: 0,0:10:31.62,0:10:31.67,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1038.89,762.34)\fscx815.74\fscy815.74\frz3.88\org(1038.89,762.34)}切尔诺伯格
-Dialogue: 0,0:10:31.67,0:10:31.71,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1037.87,761.63)\fscx813.37\fscy813.37\frz3.84\org(1037.87,761.63)}切尔诺伯格
-Dialogue: 0,0:10:31.71,0:10:31.75,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1036.82,760.95)\fscx811.14\fscy811.14\frz3.8\org(1036.82,760.95)}切尔诺伯格
-Dialogue: 0,0:10:31.75,0:10:31.79,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1035.76,760.26)\fscx808.83\fscy808.83\frz3.76\org(1035.76,760.26)}切尔诺伯格
-Dialogue: 0,0:10:31.79,0:10:31.83,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1034.74,759.53)\fscx806.3\fscy806.3\frz3.72\org(1034.74,759.53)}切尔诺伯格
-Dialogue: 0,0:10:31.83,0:10:31.88,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1033.73,758.72)\fscx803.95\fscy803.95\frz3.66\org(1033.73,758.72)}切尔诺伯格
-Dialogue: 0,0:10:31.88,0:10:31.92,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1032.7,757.97)\fscx801.56\fscy801.56\frz3.63\org(1032.7,757.97)}切尔诺伯格
-Dialogue: 0,0:10:31.92,0:10:31.96,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1031.65,757.2)\fscx799.3\fscy799.3\frz3.58\org(1031.65,757.2)}切尔诺伯格
-Dialogue: 0,0:10:31.96,0:10:32.00,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1030.61,756.56)\fscx797.33\fscy797.33\frz3.55\org(1030.61,756.56)}切尔诺伯格
-Dialogue: 0,0:10:32.00,0:10:32.04,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1029.58,755.87)\fscx794.95\fscy794.95\frz3.52\org(1029.58,755.87)}切尔诺伯格
-Dialogue: 0,0:10:32.04,0:10:32.08,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1028.56,755.05)\fscx793.13\fscy793.13\frz3.47\org(1028.56,755.05)}切尔诺伯格
-Dialogue: 0,0:10:32.08,0:10:32.13,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1027.49,754.28)\fscx790.86\fscy790.86\frz3.43\org(1027.49,754.28)}切尔诺伯格
-Dialogue: 0,0:10:32.13,0:10:32.17,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1026.38,753.54)\fscx788.8\fscy788.8\frz3.38\org(1026.38,753.54)}切尔诺伯格
-Dialogue: 0,0:10:32.17,0:10:32.21,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1025.26,752.86)\fscx786.35\fscy786.35\frz3.36\org(1025.26,752.86)}切尔诺伯格
-Dialogue: 0,0:10:32.21,0:10:32.25,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1024.2,752.1)\fscx784.1\fscy784.1\frz3.32\org(1024.2,752.1)}切尔诺伯格
-Dialogue: 0,0:10:32.25,0:10:32.29,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1019.84,751.93)\fscx808.01\fscy808.01\frz3.09\org(1019.84,751.93)}切尔诺伯格
-Dialogue: 0,0:10:32.29,0:10:32.33,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1018.75,751.36)\fscx806.37\fscy806.37\frz3.08\org(1018.75,751.36)}切尔诺伯格
-Dialogue: 0,0:10:32.33,0:10:32.38,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1017.6,750.67)\fscx804.13\fscy804.13\frz3.05\org(1017.6,750.67)}切尔诺伯格
-Dialogue: 0,0:10:32.38,0:10:32.42,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1011.84,752.18)\fscx826.26\fscy826.26\frz3.06\org(1011.84,752.18)}切尔诺伯格
-Dialogue: 0,0:10:32.42,0:10:32.46,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1005.81,755)\fscx851.3\fscy851.3\frz3.14\org(1005.81,755)}切尔诺伯格
-Dialogue: 0,0:10:32.46,0:10:32.50,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1004.66,754.3)\fscx851.69\fscy851.69\frz3.17\org(1004.66,754.3)}切尔诺伯格
-Dialogue: 0,0:10:32.50,0:10:32.54,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1001.84,753.7)\fscx869.87\fscy869.87\frz2.97\org(1001.84,753.7)}切尔诺伯格
-Dialogue: 0,0:10:32.54,0:10:32.58,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(1000.72,752.93)\fscx871.9\fscy871.9\frz2.99\org(1000.72,752.93)}切尔诺伯格
-Dialogue: 0,0:10:32.58,0:10:32.63,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(998.64,752.45)\fscx877.86\fscy877.86\frz2.97\org(998.64,752.45)}切尔诺伯格
-Dialogue: 0,0:10:32.63,0:10:32.67,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(997.58,751.64)\fscx877.72\fscy877.72\frz2.99\org(997.58,751.64)}切尔诺伯格
-Dialogue: 0,0:10:32.67,0:10:32.71,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(996.96,750.94)\fscx878.74\fscy878.74\frz2.94\org(996.96,750.94)}切尔诺伯格
-Dialogue: 0,0:10:32.71,0:10:32.75,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(995.47,750.71)\fscx880.93\fscy880.93\frz2.96\org(995.47,750.71)}切尔诺伯格
-Dialogue: 0,0:10:32.75,0:10:32.79,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(994.24,750.59)\fscx881.53\fscy881.53\frz2.95\org(994.24,750.59)}切尔诺伯格
-Dialogue: 0,0:10:32.79,0:10:32.83,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(993.13,749.97)\fscx882.08\fscy882.08\frz2.97\org(993.13,749.97)}切尔诺伯格
-Dialogue: 0,0:10:32.83,0:10:32.88,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(991.97,749.38)\fscx880.86\fscy880.86\frz2.94\org(991.97,749.38)}切尔诺伯格
-Dialogue: 0,0:10:32.88,0:10:32.92,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(990.81,748.75)\fscx879.54\fscy879.54\frz2.93\org(990.81,748.75)}切尔诺伯格
-Dialogue: 0,0:10:32.92,0:10:32.96,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(989.65,747.82)\fscx878.33\fscy878.33\frz2.87\org(989.65,747.82)}切尔诺伯格
-Dialogue: 0,0:10:32.96,0:10:33.00,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(988.51,746.9)\fscx876.88\fscy876.88\frz2.82\org(988.51,746.9)}切尔诺伯格
-Dialogue: 0,0:10:33.00,0:10:33.04,screen,,0,0,0,beretag!key2,{\c&H000017&\fs5\frx30\fry10\pos(987.35,745.99)\fscx875.26\fscy875.26\frz2.78\org(987.35,745.99)}切尔诺伯格
